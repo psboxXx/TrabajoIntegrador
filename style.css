@@ -1,0 +1,134 @@
+header{
+    background-image: url(./img/header.jpg);
+    background-size: 50% 50%;
+    background-size: cover;
+}
+
+#logomenu{
+display: flex;
+justify-content: space-between;
+padding-left: 5%;
+padding-top: 5%;
+padding-right: 2%;
+}
+
+nav{
+    word-spacing: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+h1{
+    color: white;
+    padding-left: 3%;
+    padding-top: 25%;
+    padding-bottom: 50px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.cajas {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.cajasup {
+    text-align: center;
+    height: 300px;
+    width: 250px;
+}
+
+.cajainf{
+    background-color: whitesmoke;
+    height: 500px;
+    width: 300px;
+}
+
+.textocasa{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+#precio{
+    color: yellowgreen;
+    font-weight: bold;
+}
+
+.casa{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.propiedad {
+    width: 250px;
+    height: 40px;
+    color: white;
+    background-color: orange;
+    border: orange;
+    margin-left: 8%;
+    margin-top: 15px;
+}
+
+.todas{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: greenyellow;
+    border: greenyellow;
+    margin-left: 84%;
+    margin-top: 15px;
+}
+
+footer{
+    background-image: url("img/encuentra.jpg");
+    height: 300px;
+    background-size: cover;
+
+}
+
+h4{
+    padding-top: 80px;
+    padding-left: 10%;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+}
+
+.textofoot{
+    color: white;
+    padding-left: 10%;   
+}
+
+#contacto{
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color: orange;
+    border: orange;
+    margin-top: 15px;
+    margin-left: 10%;
+    margin-bottom: 40px;
+}
+#menufoot{
+    background-color: #565656;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#navfoot{
+    padding-top: 40px;
+    padding-left: 5%;
+}
+#copy{
+    color: white;
+    padding-right: 5%;
+    padding-top: 20px;
+}
